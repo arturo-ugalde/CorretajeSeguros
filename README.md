@@ -1,3 +1,14 @@
+<br />
+<h1>
+<p align="center">
+  <img src="https://github.com/arturo-ugalde/CorretajeSeguros/blob/5eaf422fa61640d9bb88b2fba011a365f66dea28/Documentos/44.png" alt="Logo" width="140" height="110">
+  <br>FastColabCopy
+</h1>
+  <p align="center">
+    Python3 script to transfer files in Google Colab 10-50x faster.
+    <br />
+    </p>
+</p>
 # CorretajeSeguros
 Este es el repositorio del proyecto de clustering sobre empresas que maximicen los ingresos de la compañía de corretaje de seguros.
 
