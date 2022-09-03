@@ -30,3 +30,8 @@ Resumen General de los datos:
 <div  >
 <img  src = "https://github.com/arturo-ugalde/CorretajeSeguros/blob/d98efc42782d34ac36366c29850554b0587d0510/Documentos/overview.png"  />
 </div>
+
+Estadísticas descriptivas:
+<div  >
+<img  src = "https://github.com/arturo-ugalde/CorretajeSeguros/blob/d98efc42782d34ac36366c29850554b0587d0510/Documentos/statistics.png"  />
+</div>
