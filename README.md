@@ -9,7 +9,7 @@
     </p>
 </p>
 <br />
-# CorretajeSeguros
+
 Este es el repositorio del proyecto de clustering sobre empresas que maximicen los ingresos de la compañía de corretaje de seguros.
 
 Este proyecto tiene el interés de una  empresa de corretaje de seguro en entender el grupo de empresas que le generan mayores ingresos de acuerdo con  las  características  de cada cliente. Para ello se utilizará la información de facturación histórica de la empresa en la cual se asocia cada  una de  
