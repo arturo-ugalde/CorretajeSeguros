@@ -25,3 +25,8 @@ categoricalColumns = list(set(data.columns) - set(data.describe().columns))
 data.head()
 ```
 Por último la carpeta Documentos contiene el archivo pdf con la propuesta y resultados del proyecto.
+
+
+<div  >
+<img  src = "https://github.com/arturo-ugalde/CorretajeSeguros/blob/d98efc42782d34ac36366c29850554b0587d0510/Documentos/overview.png"  />
+</div>
