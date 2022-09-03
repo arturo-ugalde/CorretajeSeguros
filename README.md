@@ -3,9 +3,6 @@
   <img src="https://github.com/arturo-ugalde/CorretajeSeguros/blob/5eaf422fa61640d9bb88b2fba011a365f66dea28/Documentos/44.png" alt="Logo" width="140" height="110">
   <br>Corredora de Seguros
 </h1>
-  <p align="center">
-    <br />
-    </p>
 </p>
 <br />
 
