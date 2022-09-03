@@ -26,12 +26,12 @@ data.head()
 ```
 Por último la carpeta Documentos contiene el archivo pdf con la propuesta y resultados del proyecto.
 
-Resumen General de los datos:
+## Resumen General de los datos:
 <div  >
 <img  src = "https://github.com/arturo-ugalde/CorretajeSeguros/blob/d98efc42782d34ac36366c29850554b0587d0510/Documentos/overview.png"  />
 </div>
 
-Estadísticas descriptivas:
+## Estadísticas descriptivas:
 <div  >
 <img  src = "https://github.com/arturo-ugalde/CorretajeSeguros/blob/a1c579529a56e1d9a1f684d8ea6bb660e62276f9/Documentos/statistics.png"  />
 </div>
