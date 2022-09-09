@@ -1,4 +1,10 @@
-# CorretajeSeguros
+<h1>
+<p align="center">
+  <img src="https://github.com/arturo-ugalde/CorretajeSeguros/blob/5eaf422fa61640d9bb88b2fba011a365f66dea28/Documentos/44.png" alt="Logo" width="140" height="110">
+  <br>Corretaje de Seguros
+</h1>
+</p>
+
 Este es el repositorio del proyecto de clustering sobre empresas que maximicen los ingresos de la compañía de corretaje de seguros.
 
 Este proyecto tiene el interés de una  empresa de corretaje de seguro en entender el grupo de empresas que le generan mayores ingresos de acuerdo con  las  características  de cada cliente. Para ello se utilizará la información de facturación histórica de la empresa en la cual se asocia cada  una de  
